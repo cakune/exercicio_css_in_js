@@ -1,6 +1,6 @@
 import Header from './containers/Cabecalho'
 import Hero from './containers/Hero'
-import ListaVagas from './containers/ListaVagas'
+import ListaVagas from './components/ListaVagas'
 
 import EstiloGlobal, { Container } from './styles'
 
